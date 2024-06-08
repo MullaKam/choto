@@ -18,7 +18,7 @@
 <div id="messages"></div>
 
 <form id="messageForm">
-    <input type="text" id="messageInput" placeholder="Введите ваше сообщение" />
+    <input type="text" id="messageInput" placeholder="Вводишь свое смс" />
     <button type="submit">Отправить</button>
 </form>
 
